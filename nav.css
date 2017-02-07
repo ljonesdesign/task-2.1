@@ -8,7 +8,8 @@
   margin: 0;
 }
 .top-nav li {
-  font-family: 'Sansita', sans-serif;   /* this is from google fonts */
+  /* line 12 is where the Google font Sansita font-family CSS code goes */
+  
   font-size: 1.2em;
   line-height: 40px;
   height: 40px;
