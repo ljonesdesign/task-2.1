@@ -1,6 +1,6 @@
 # Simplified Theme for doing task 2.1
 
-This is your first task which is the 2.1 task.
+This is your first Web devlopment task which is the 2.1 task.
 
 Recommended due date:**As soon as possible!** Class will go a lot smoother for you
 on Wednesday if you get this done before coming.
