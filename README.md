@@ -9,6 +9,9 @@ Class will go a lot smoother for you on Wednesday if you get this done before co
 
 *The final due date will be by end of the Web Development Section.*
 
+
+[Here is a screenshot of what you are working toward](task-2.1.png)
+
 In this task you will:
 
 * git clone or download this repository to your computer
