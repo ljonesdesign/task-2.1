@@ -1,18 +1,18 @@
 # Simplified Theme for doing task 2.1
 
-This is your first Web devlopment task which is the 2.1 task.
+This is your first Web Development Section task, which is the 2.1 task.
 
-Recommended due date:**As soon as possible!** Class will go a lot smoother for you
-on Wednesday if you get this done before coming.
+Recommended due date:**As soon as possible!** 
+Class will go a lot smoother for you on Wednesday if you get this done before coming.
 
 **If you so desire, you can use this project as a start for the remainder of your web development tasks.**
 
 *The final due date will be by end of the Web Development Section.*
 
-In this task you will
+In this task you will:
 
 * git clone or download this repository to your computer
-* drag the ```index.html``` file into your browser
+* drag the ```index.html``` file into your browser (or you can double-click the index file and it will launch in your default browser.
 * resize the browser so that you can see how the text reflows
 * open up the Atom editor, Choose ```File > Add project folder``` and open the downloaded repository
 * read the ```stylesheet-links.md``` file. Link the three css files in your ```index.html``` file. DO NOT do this all at once
