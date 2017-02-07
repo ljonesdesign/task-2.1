@@ -1,7 +1,7 @@
 You need to put the external css external link tags with the rel attribute
 in the index.html file. Look in the index.html file to see the comment for where they go.
 
-[help if you need it:](http://www.w3schools.com/css/css_howto.asp)
+[help if you need it: How to do CSS links](http://www.w3schools.com/css/css_howto.asp)
 
 Look at the site in a browser before you add these one by one, so that you can see the changes as you make them.
 
