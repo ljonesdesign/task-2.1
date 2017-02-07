@@ -2,7 +2,7 @@
 
 This is your first Web Development Section task, which is the 2.1 task.
 
-Recommended due date:**As soon as possible!** 
+Recommended due date: **As soon as possible!** 
 Class will go a lot smoother for you on Wednesday if you get this done before coming.
 
 **If you so desire, you can use this project as a start for the remainder of your web development tasks.**
