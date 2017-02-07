@@ -1,0 +1,23 @@
+@media screen and (min-width: 600px) {
+  .top-nav li {
+    width: 120px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+
+  .top-nav li {
+    display: inline-block;
+    margin-right: -4px;
+
+  }
+
+}
+@media screen and (max-width: 800px) {
+
+  section {
+    margin: 0 1rem 0 1rem;
+          }
+
+}

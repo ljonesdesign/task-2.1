@@ -1,0 +1,32 @@
+.top-nav ul {
+  list-style: none;
+ background-color: red;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.top-nav li {
+/* Paste Google font-family code below this line. Save the file after you do it. */
+
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+
+.top-nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+}
+
+.top-nav a:hover {
+  background-color: #005f5f;
+}
+
+.top-nav a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}

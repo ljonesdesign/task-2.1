@@ -1,0 +1,20 @@
+body {
+  background-color: tan;
+  color: black;
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Serif', serif;  /* this is from google fonts */
+  font-size: 120%;
+  line-height: 160%
+}
+
+section {
+  font-family: 'Noto Serif', serif;   /* this is from google fonts */
+  margin: 0 8rem 0 8rem;
+}
+
+h1 {
+  color: black;
+  font-family: 'Sansita', sans-serif;   /* this is from google fonts */
+  text-align: center;
+}
