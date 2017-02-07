@@ -1,6 +1,8 @@
+# Simplified Theme for doing task 2.1
+
 This is your first task which is the 2.1 task.
 
-Recommended due date:As soon as possible! Class will go a lot smoother for you
+Recommended due date:**As soon as possible!** Class will go a lot smoother for you
 on Wednesday if you get this done before coming.
 
 **If you so desire, you can use this project as a start for the remainder of your web development tasks.**
@@ -14,7 +16,7 @@ In this task you will
 * resize the browser so that you can see how the text reflows
 * open up the Atom editor, Choose ```File > Add project folder``` and open the downloaded repository
 * read the stylesheet-links.md file. Link the three css files in your index.html file. DO NOT do this all at once
-* follow the instructions in the stylesheet-links.md file when linking one by one
+* follow the instructions in the [stylesheet-links.md](stylesheet-links.md) file when linking one by one
 * link to two different Google fonts. In your index.html file. Its okay to do this at one time.
 * follow the instructions in the google-fonts-links.md file when linking
 * put the google sanita font-family code in the nav.css file. (You can look at the style.css to see how it is done there)
