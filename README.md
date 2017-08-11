@@ -29,6 +29,6 @@ file into your browser (or you can double-click the index file and it will launc
 * once you have completed all of these tasks duplicate the ```index.html``` file twice and name one ```about.html``` and the other ```contact.html```
 * change the header 1 content on each page so that you can see that the navigation is working.
 * change the paragraph text on each page also.
-* finally, SFTP the 2.1-task folder into your public_html file. Do not put it into your home folder or any other folder.
+* finally, git push to your website repository on your UNC source control Account.
 
 *The google fonts are not downloaded. You just link to them and they work across the internet.*
