@@ -15,7 +15,7 @@ In this task you will:
      index.html 
 file into your browser (or you can double-click the index file and it will launch in your default browser)
 * resize the browser so that you can see how the text reflows
-* open up the Atom editor, Choose 
+* open up the your text editor, Choose 
       File > Add project folder 
       and open the downloaded repository
       
