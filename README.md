@@ -1,4 +1,7 @@
+
 # Simplified Theme for doing task 2.1
+
+## This is archived tutorial. This in no longer part of the INLS 161 curriculum.
 
 This is your first Web Development Section task, which is the 2.1 task.
 
